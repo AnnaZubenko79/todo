@@ -11,7 +11,6 @@ export const onCreateTask = () => {
   }
 
   taskTitleInputElem.value = '';
-
   const newTasksList = {
     text,
     done: false,
