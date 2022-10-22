@@ -1,6 +1,6 @@
 # TODO List
 
-### [**Site link**](https://annazubenko79.github.io//)
+### [**Site link**](https://annazubenko79.github.io/todo/)
 
 Layout supports only desktop (1440px) versions
 
